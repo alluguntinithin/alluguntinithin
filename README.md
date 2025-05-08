@@ -1,7 +1,7 @@
 Banking Application## Hi there 👋
 
 <!--
-**alluguntinithin/alluguntinithin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alluguntinithin/Banking Application using Spring Tools** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
